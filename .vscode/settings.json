@@ -1,0 +1,10 @@
+{
+	"window.autoDetectColorScheme": true,
+	"window.commandCenter": false,
+	"window.zoomLevel": 3,
+	"window.zoomPerWindow": false,
+
+	"git.enabled": true,
+	"git.ignoreLimitWarning": true,
+	"git.openRepositoryInParentFolders": "never",
+}

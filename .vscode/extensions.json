@@ -1,0 +1,14 @@
+{
+	"recommendations": [
+		"tzylee.verilog-highlight",
+		"mshr-h.veriloghdl",
+		"leafvmaple.verilog",
+		"gtylcara-gewinn.verilog"
+	],
+	"unwantedRecommendations": [
+		"vscodevim.vim",
+		"ms-vscode.makefile-tools",
+		"davidanson.vscode-markdownlint",
+		"donjayamanne.githistory", "eamodio.gitlens"
+	]
+}
