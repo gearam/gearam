@@ -2,9 +2,20 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-			"label": "MY_TASK_LABEL",
-			"type": "shell",
-			"command": "echo hello"
+			"label": "GIT_TIE", "type": "shell", "icon": { "id": "x" },
+			"command": "git add --all && git commit --message ''"
+		},
+		{
+			"label": "GIT_PLANT", "type": "shell", "icon": { "id": "x" },
+			"command": "git add --all && git commit --message ''"
+		},
+		{
+			"label": "GIT_LOG", "type": "shell", "icon": { "id": "x" },
+			"command": "git add --all && git commit --message ''"
+		},
+		{
+			"label": "GIT_PUSH", "type": "shell", "icon": { "id": "git-pull-request" },
+			"command": "git push --force origin master:master"
 		}
 	]
 }

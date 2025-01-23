@@ -1,8 +1,28 @@
 {
 	"window.autoDetectColorScheme": true,
 	"window.commandCenter": false,
+	"window.density.editorTabHeight": "default",
 	"window.zoomLevel": 3,
 	"window.zoomPerWindow": false,
+
+	"workbench.activityBar.location": "hidden",
+	"workbench.colorTheme": "Default Light Modern",
+	"workbench.editor.editorActionsLocation": "hidden",
+	"workbench.editor.showIcons": true,
+	"workbench.editor.showTabs": "multiple",
+	"workbench.editor.tabActionCloseVisibility": false,
+	"workbench.editor.tabActionLocation": "right",
+	"workbench.editor.tabSizing": "fit",
+	"workbench.editor.wrapTabs": false,
+	"workbench.layoutControl.enabled": false,
+	"workbench.statusBar.visible": false,
+
+	"breadcrumbs.enabled": false,
+
+	"editor.autoIndent": "none",
+	"editor.detectIndentation": false,
+
+    "[makefile]": { "editor.insertSpaces": false, "editor.wordWrap": "off" },
 
 	"git.enabled": true,
 	"git.ignoreLimitWarning": true,

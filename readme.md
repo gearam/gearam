@@ -1,2 +1,2 @@
 
-	git clone --branch master --single-branch -- github:gearam/gearam gearam
+	git clone --branch master --single-branch --depth 1 -- github.gearam:gearam/gearam gearam
